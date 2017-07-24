@@ -1,3 +1,9 @@
 <resources>
   <string name="app_name">Location-Finder</string>
+
+  <string name="resume">Resume</string>
+
+  <string name="enable_loc">Enable Location</string>
+
+  <string name="dialog_message">Your Locations Settings is set to 'Please Enable Location to use this app</string>
 </resources>
